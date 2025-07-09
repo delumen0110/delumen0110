@@ -1,6 +1,5 @@
- 👋 Hi, I’m @delumen0110
- 👀 I’m interested in learning programming languages
- 🌱 I’m currently learning html and css
+ 👋 Hi, I’m ibrahim
+ 👀 i love to learn about smart contract and blockchain technology
  💞️ I’m looking forward to collaborating with this community on my career analysis
  📫 reach me on delumen0110@gmail.com
  ⚡ i love my passion, really do love it
